@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Loubriel Ledesma
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning data structures and algorithms, and advanced data analysis techniques.
-- 💞️ I’m looking to collaborate on data science projects and build up my experience.
+- 🥅I’m looking to collaborate on data science projects and build up my experience.
 - 📫 How to reach me: Email: loubriel.ledesma@gmail.com
 
 <!---
