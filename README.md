@@ -11,7 +11,7 @@ I'm an analytics engineer with a passion for scalable data infrastructure, rigor
 
 I thrive at the intersection of:
 - **Analytics Engineering**: ETL orchestration, Feature engineering, statistical modeling, data transformation & validation
-- **Advanced Analytics**: Predictive modeling, probability distributions, market analysis, edge detection
+- **Advanced Data Analytics**: Predictive modeling, probability distributions, market analysis, edge detection
 
 ---
 
