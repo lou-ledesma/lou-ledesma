@@ -16,7 +16,7 @@ I thrive at the intersection of:
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Completed Project Repositories
 
 | Project | Description | Domain | Tech Stack |
 |---------|-------------|--------|-----------|
@@ -72,6 +72,12 @@ I'm always interested in discussing data architecture, analytics engineering pat
 - [Email](Loubriel.Ledesma@gmail.com)
 
 Thanks for stopping by — feel free to ⭐️ any repo that catches your interest!
+
+---
+
+## Disclaimer:
+This README.md file description was generated using Perplexity AI.
+
 <!---
 lou-ledesma/lou-ledesma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
