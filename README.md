@@ -10,9 +10,8 @@ Welcome to my GitHub — I build data pipelines, analytical systems, and quantit
 I'm an analytics engineer with a passion for scalable data infrastructure, rigorous statistical analysis, and bridging the gap between data engineering and business intelligence. My work spans the complete data lifecycle: from pipeline orchestration and data quality to predictive modeling and actionable insights.
 
 I thrive at the intersection of:
-- **Data Engineering**: ETL orchestration, data warehousing, infrastructure as code
-- **Analytics Engineering**: Feature engineering, statistical modeling, data transformation & validation
-- **Data Analytics**: Predictive modeling, probability distributions, market analysis, edge detection
+- **Analytics Engineering**: ETL orchestration, Feature engineering, statistical modeling, data transformation & validation
+- **Advanced Analytics**: Predictive modeling, probability distributions, market analysis, edge detection
 
 ---
 
