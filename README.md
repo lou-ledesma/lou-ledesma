@@ -1,11 +1,11 @@
-Hello! I'm Loubriel Ledesma (Call me Lou) - Welcome to my GitHub Profile.
+🤝 Hello! I'm Loubriel Ledesma (Call me Lou) - Welcome to my GitHub Profile.
 
 Analytics Engineer | Lead Data Analyst
 Welcome to my GitHub — I build data pipelines, analytical systems, and quantitative models that transform raw data into competitive advantages.
 
 ---
 
-## 🔍 About Me
+## 📖 About Me
 
 I'm an analytics engineer with a passion for scalable data infrastructure, rigorous statistical analysis, and bridging the gap between data engineering and business intelligence. My work spans the complete data lifecycle: from pipeline orchestration and data quality to predictive modeling and actionable insights.
 
@@ -15,7 +15,7 @@ I thrive at the intersection of:
 
 ---
 
-## 🚀 Completed Project Repositories
+## 👨‍🏫 Completed Project Repositories
 
 | Project | Description | Domain | Tech Stack |
 |---------|-------------|--------|-----------|
@@ -24,7 +24,7 @@ I thrive at the intersection of:
 
 ---
 
-## 💡 Core Competencies
+## 📊 Core Competencies
 
 ### Data Pipeline Architecture
 - **Orchestration & Scheduling**: Apache Airflow, DAG design, task dependency management, failure handling
@@ -50,7 +50,7 @@ I thrive at the intersection of:
 
 ---
 
-## 🎯 What Drives My Work
+## 🗻 What Drives My Work
 
 I'm focused on the **data lifecycle** — understanding how raw data flows through systems, gets transformed into trustworthy analytical assets, and ultimately drives decisions. My projects reflect:
 
@@ -61,7 +61,7 @@ I'm focused on the **data lifecycle** — understanding how raw data flows throu
 
 ---
 
-## 🤝 Let's Connect
+## 🔌 Let's Connect
 
 I'm always interested in discussing data architecture, analytics engineering patterns, or compelling projects at the intersection of data and decision-making.
 
