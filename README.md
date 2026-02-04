@@ -68,7 +68,7 @@ I'm always interested in discussing data architecture, analytics engineering pat
 **Find me on:**
 - [LinkedIn](https://www.linkedin.com/in/lou-ledesma/)
 - [GitHub](https://github.com/lou-ledesma)
-- [Email](Loubriel.Ledesma@gmail.com)
+- Email: Loubriel.Ledesma@gmail.com
 
 Thanks for stopping by — feel free to ⭐️ any repo that catches your interest!
 
