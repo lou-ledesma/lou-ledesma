@@ -1,7 +1,7 @@
 🤜🤛 Hello! I'm Loubriel Ledesma (Call me Lou) - Welcome to my GitHub Profile.
 
 Analytics Engineer 🧰 | Lead Data Analyst 📈
-I build data pipelines, analytical systems, and quantitative models that transform raw data into competitive advantages.
+- I build data pipelines, analytical systems, and quantitative models that transform raw data into competitive advantages.
 
 ---
 
