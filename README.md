@@ -1,64 +1,88 @@
-# Hi, I'm Lou Ledesma
+# 🤜🤛 Hello! I'm Loubriel Ledesma (Call me Lou)
 
-### Full-Stack Data Analyst | Full-Stack Data Scientist
+Welcome to my GitHub profile! Glad you're here.
 
-I turn raw data into useful analysis, predictive models, and decision-ready dashboards. My work connects the full data lifecycle: framing a question, collecting and preparing data, exploring patterns, building models, and delivering results people can use.
+**Full-Stack Data Analyst 📊 | Full-Stack Data Scientist 🧠**
 
-For me, full-stack means owning the path from source data to a decision—and building the pipelines and automation that make the work repeatable.
+I enjoy digging into data, figuring out what it's telling us, and building something useful with it. Sometimes that's a dashboard that makes a trend easier to understand. Other times, it's a predictive model or a pipeline that takes the manual work out of a recurring report.
 
-## What I Do
+---
 
-- **Data analysis & business intelligence:** Use Python and SQL to explore data, define metrics, investigate trends, and communicate findings through dashboards and reports.
-- **Data science & predictive modeling:** Engineer features, build regression models, evaluate predictions, and use probability distributions to communicate uncertainty.
-- **Data engineering & automation:** Build ETL workflows with Apache Airflow, prepare and validate data, and organize it in MySQL for downstream analysis.
-- **Communication & delivery:** Connect analytical results to the original question, document assumptions, and make outputs accessible through BI tools and repeatable reporting.
+## 📖 About Me
 
-## Featured Projects
+I'm curious about the whole process: where the data comes from, how we can trust it, what we can learn from it, and how those findings can help someone make a decision.
 
-### [NBA Rebounding Prop Valuation & Edge Detection System](https://github.com/lou-ledesma/NBA-Rebounding-Prop-Valuation-Edge-Detection-System)
+That's what full-stack means to me. I like connecting the pieces, from collecting and cleaning data to analyzing patterns, building models, and sharing the results in a way that makes sense.
 
-**From historical player data to predictions and market comparisons.**
+My work brings together:
 
-A sports analytics project that estimates NBA rebounding performance and compares model probabilities with market lines. It brings data preparation, feature engineering, predictive modeling, and performance reporting into one workflow.
+- **Data Analytics:** Exploring trends, defining useful metrics, and turning findings into dashboards and reports.
+- **Data Science:** Building features, testing predictive models, and understanding the uncertainty behind a prediction.
+- **Data Engineering:** Creating the pipelines and workflows that keep the data clean, organized, and ready to use.
 
-- Prepare historical data and construct player, opponent, and game-context features.
-- Use regression models and probability distributions to estimate outcomes and assess uncertainty.
-- Run analysis across multiple players and compare predictions with actual performance.
-- Deliver structured outputs and a Looker Studio dashboard for exploring results.
+---
 
-**Stack:** Python, pandas, NumPy, scikit-learn, Jupyter, Looker Studio
+## 🛠️ Projects I've Built
 
-### [Automated Store Analytics Pipeline](https://github.com/lou-ledesma/Automated-Store-Analytics-Pipeline)
+### 🏀 [NBA Rebounding Prop Valuation & Edge Detection System](https://github.com/lou-ledesma/NBA-Rebounding-Prop-Valuation-Edge-Detection-System)
 
-**From raw retail transactions to scheduled analytical reports.**
+How can historical player data help us understand an NBA rebounding prop?
 
-An automated reporting workflow that connects data ingestion, cleaning, database loading, and SQL analysis. This project demonstrates the foundation needed to keep recurring analytics useful and repeatable.
+This project brings together data preparation, feature engineering, and predictive modeling to estimate rebounding outcomes and compare them with market lines. It also connects the predictions to performance reporting so I can look at how they compare with what actually happened.
 
-- Orchestrate the workflow with Apache Airflow and containerize the environment with Docker.
-- Clean and transform transaction data in Python before loading it into MySQL.
-- Use SQL queries to turn transaction records into reporting outputs.
-- Schedule report generation and delivery to reduce manual processing.
+- Build features around players, opponents, and game context.
+- Estimate outcomes with regression models and probability distributions.
+- Run the analysis across multiple players and track predictions against actual results.
+- Bring the outputs into Looker Studio to explore performance visually.
 
-**Stack:** Python, SQL, MySQL, Apache Airflow, Docker
+**Built with:** Python, pandas, NumPy, scikit-learn, Jupyter, Looker Studio
 
-## My Toolkit
+### 🛒 [Automated Store Analytics Pipeline](https://github.com/lou-ledesma/Automated-Store-Analytics-Pipeline)
+
+Getting a report shouldn't mean repeating the same data cleanup every time.
+
+This project connects raw retail transaction data to scheduled analytical reports. It handles the steps in between, from cleaning the data in Python to loading it into MySQL and running SQL queries, with Airflow keeping the workflow moving.
+
+- Clean and transform raw transaction data before loading it into MySQL.
+- Use SQL to turn individual records into useful reporting outputs.
+- Schedule the workflow and report delivery with Apache Airflow.
+- Use Docker to keep the environment consistent and easier to reproduce.
+
+**Built with:** Python, SQL, MySQL, Apache Airflow, Docker
+
+---
+
+## 🧰 My Toolkit
 
 - **Languages:** Python, SQL
-- **Analysis & modeling:** pandas, NumPy, scikit-learn, Jupyter Notebooks
-- **BI & visualization:** Looker Studio, Tableau, Excel, Google Sheets
-- **Pipelines & storage:** Apache Airflow, MySQL, web scraping
-- **Reproducible environments:** Docker
+- **Analysis & Modeling:** pandas, NumPy, scikit-learn, Jupyter Notebooks
+- **Dashboards & Reporting:** Looker Studio, Tableau, Excel, Google Sheets
+- **Pipelines & Databases:** Apache Airflow, MySQL, web scraping
+- **Environments & Setup:** Docker
 
-## How I Approach Data Work
+---
 
-I start with the question and the decision the analysis needs to support. From there, I focus on data quality, choose methods that fit the problem, and check whether the results hold up. I aim to make both the findings and their limitations clear.
+## 💡 What Drives My Work
 
-The final deliverable might be a dashboard, a predictive model, or an automated report. My goal is to connect the technical work to something useful—and make it straightforward to revisit as new data arrives.
+I like the moment when a messy dataset starts to make sense. But I also care about what happens after the analysis: can someone understand it, use it, and come back to it when the data changes?
 
-## Let's Connect
+A few things I try to bring to every project:
 
-I'm interested in full-stack data analytics and data science opportunities where I can contribute across analysis, modeling, automation, and delivery.
+- **Curiosity:** Start with a good question and be willing to follow an unexpected finding.
+- **Rigor:** Check the data, test assumptions, and be honest about what the results can and can't tell us.
+- **Clarity:** Make the findings understandable and explain why they matter.
+- **Repeatability:** Automate the repetitive parts and leave a workflow that's easy to revisit.
+
+---
+
+## 🔌 Let's Connect
+
+I'm always up for talking about data, swapping project ideas, or hearing how others approach a tricky analysis. I'm also interested in full-stack data analyst and data scientist opportunities where I can work across the process, from the first question to the final deliverable.
+
+**Find me on:**
 
 - [LinkedIn](https://www.linkedin.com/in/lou-ledesma/)
 - [GitHub](https://github.com/lou-ledesma)
 - [Email](mailto:Loubriel.Ledesma@gmail.com)
+
+Thanks for stopping by! Feel free to explore my projects and leave a ⭐ if something catches your interest.
